@@ -9,7 +9,6 @@
   "author": "Tom and Joel (JRS at CareKinesis)",
   "license": "MIT",
   "dependencies": {
-    "loggly": "^1.0.5",
     "linchpin": "^0.3.0",
     "request": "^2.40.0"
   },
