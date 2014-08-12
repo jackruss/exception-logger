@@ -1,6 +1,6 @@
 {
   "name": "exception-logger",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Logging errors EventEmitter Style....",
   "main": "index.js",
   "scripts": {
