@@ -1,0 +1,20 @@
+{
+  "name": "exception-logger",
+  "version": "0.0.1",
+  "description": "Logging errors EventEmitter Style....",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "author": "Tom and Joel (JRS at CareKinesis)",
+  "license": "MIT",
+  "dependencies": {
+    "loggly": "^1.0.5",
+    "linchpin": "^0.3.0",
+    "request": "^2.40.0"
+  },
+  "devDependencies": {
+    "tap": "^0.4.12",
+    "nock": "^0.44.2"
+  }
+}
